@@ -1,1 +1,2 @@
 # EmployeeCRUD
+Java, Jersey, Mysql
